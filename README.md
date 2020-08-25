@@ -1,0 +1,2 @@
+# basicpython
+latihan python dasar
